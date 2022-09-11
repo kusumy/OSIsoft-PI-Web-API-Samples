@@ -24,7 +24,7 @@ headers = {
 
 
 value_data = {
-        "Value": 991,
+    "Value": 991,
 } # Because no time stamp is specified, PI Web API will add value at current time.
 
 # Make request
